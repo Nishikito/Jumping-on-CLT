@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"pAndando",
+  "%Name":"pAndando_1",
   "bboxMode":2,
   "bbox_bottom":33,
   "bbox_left":17,
@@ -23,7 +23,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"4a9feef1-c06a-48cb-bc2e-88050acc9531","blendMode":0,"displayName":"default","isLocked":false,"name":"4a9feef1-c06a-48cb-bc2e-88050acc9531","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"pAndando",
+  "name":"pAndando_1",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -73,13 +73,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f5c09058-7d2b-4b60-9f0f-d7af11cd743b","path":"sprites/pAndando/pAndando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f5c09058-7d2b-4b60-9f0f-d7af11cd743b","path":"sprites/pAndando_1/pAndando_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"300c8d72-8156-49d2-87d6-cb1daa4171f5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e453aea4-0bdd-4e08-b4f0-2d0a20b57235","path":"sprites/pAndando/pAndando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e453aea4-0bdd-4e08-b4f0-2d0a20b57235","path":"sprites/pAndando_1/pAndando_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5eb0297d-90bb-4d55-85c0-91f983ad4db1","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c010a265-6311-40be-942d-fa20d2147697","path":"sprites/pAndando/pAndando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c010a265-6311-40be-942d-fa20d2147697","path":"sprites/pAndando_1/pAndando_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"bc7501bf-2028-4384-9bdc-c487fea6aebf","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

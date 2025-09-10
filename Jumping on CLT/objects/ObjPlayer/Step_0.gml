@@ -1,23 +1,42 @@
-right_key = keyboard_check(vk_right);
-left_key = keyboard_check(vk_left);
-up_key = keyboard_check(vk_up);
-down_key = keyboard_check(vk_down);
+// INPUT
+var right_key = keyboard_check(vk_right);
+var left_key  = keyboard_check(vk_left);
+var up_key    = keyboard_check(vk_up);
+var down_key  = keyboard_check(vk_down);
 
-xspd = (right_key - left_key) * move_spd;
-yspd = (down_key - up_key);
+// MOVIMENTO
+var xspd = (right_key - left_key) * move_spd;
+var yspd = (down_key - up_key) * move_spd;
 
-// colisões
-if place_meeting(x + xspd, y, objParede) == true
-{
-	xspd = 0;
+// MOVIMENTO EM X COM COLISÃO
+if (!place_meeting(x + xspd, y, objParede)) {
+    x += xspd;
+} else {
+    while (xspd != 0 && !place_meeting(x + sign(xspd), y, objParede)) {
+        x += sign(xspd);
+    }
 }
-if place_meeting(x, y + yspd, objParede) == true
-{
-	yspd = 0;
+
+// MOVIMENTO EM Y COM COLISÃO
+if (!place_meeting(x, y + yspd, objParede)) {
+    y += yspd;
+} else {
+    while (yspd != 0 && !place_meeting(x, y + sign(yspd), objParede)) {
+        y += sign(yspd);
+    }
 }
 
-// mudança de sprite
+// SPRITE E DIREÇÃO
+if (xspd != 0 || yspd != 0) {
+    sprite_index = pAndando;
 
+    // Inverter sprite horizontalmente
+    if (xspd > 0) {
+        image_xscale = 1;
+    } else if (xspd < 0) {
+        image_xscale = -1;
+    }
 
-x += xspd;
-y += yspd;
+} else {
+    sprite_index = pParado;
+}
