@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"ObjPlayer",
+  "%Name":"objTeleporte",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ObjPlayer",
+  "name":"objTeleporte",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"pParado",
-    "path":"sprites/pParado/pParado.yy",
+    "name":"sTeleporte",
+    "path":"sprites/sTeleporte/sTeleporte.yy",
   },
   "spriteMaskId":null,
   "visible":true,
