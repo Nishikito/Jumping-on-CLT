@@ -40,3 +40,4 @@ if (xspd != 0 || yspd != 0) {
 } else {
     sprite_index = pParado;
 }
+

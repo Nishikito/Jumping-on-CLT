@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"sCapivara",
+  "%Name":"sDoguinho",
   "bboxMode":0,
   "bbox_bottom":40,
-  "bbox_left":14,
-  "bbox_right":35,
-  "bbox_top":8,
+  "bbox_left":11,
+  "bbox_right":37,
+  "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"78c75b99-c1db-4754-b33a-7ebfa62c277a","name":"78c75b99-c1db-4754-b33a-7ebfa62c277a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"71daa372-a7f8-433f-ba34-7d051ed1e991","name":"71daa372-a7f8-433f-ba34-7d051ed1e991","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":48,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"12316cd4-83d4-410e-b833-ea0edd4657f8","blendMode":0,"displayName":"default","isLocked":false,"name":"12316cd4-83d4-410e-b833-ea0edd4657f8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"6925357b-aa60-43da-9139-d58e5c09fc4e","blendMode":0,"displayName":"default","isLocked":false,"name":"6925357b-aa60-43da-9139-d58e5c09fc4e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sCapivara",
+  "name":"sDoguinho",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"sCapivara",
+    "%Name":"sDoguinho",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sCapivara",
+    "name":"sDoguinho",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"78c75b99-c1db-4754-b33a-7ebfa62c277a","path":"sprites/sCapivara/sCapivara.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"60df42f0-e9c5-460b-8a1d-8e74aa7ff43a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"71daa372-a7f8-433f-ba34-7d051ed1e991","path":"sprites/sDoguinho/sDoguinho.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"15ac0c75-9071-4b62-98dc-6572128c3a70","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

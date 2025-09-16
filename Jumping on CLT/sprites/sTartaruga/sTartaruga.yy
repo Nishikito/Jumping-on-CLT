@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"sCapivara",
+  "%Name":"sTartaruga",
   "bboxMode":0,
   "bbox_bottom":40,
-  "bbox_left":14,
-  "bbox_right":35,
-  "bbox_top":8,
+  "bbox_left":10,
+  "bbox_right":40,
+  "bbox_top":9,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"78c75b99-c1db-4754-b33a-7ebfa62c277a","name":"78c75b99-c1db-4754-b33a-7ebfa62c277a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"570e4718-be00-433a-8882-9dfac4793ee6","name":"570e4718-be00-433a-8882-9dfac4793ee6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":48,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"12316cd4-83d4-410e-b833-ea0edd4657f8","blendMode":0,"displayName":"default","isLocked":false,"name":"12316cd4-83d4-410e-b833-ea0edd4657f8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"0ac133e6-023f-4b42-8869-0aa89aec41fc","blendMode":0,"displayName":"default","isLocked":false,"name":"0ac133e6-023f-4b42-8869-0aa89aec41fc","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sCapivara",
+  "name":"sTartaruga",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"sCapivara",
+    "%Name":"sTartaruga",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sCapivara",
+    "name":"sTartaruga",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"78c75b99-c1db-4754-b33a-7ebfa62c277a","path":"sprites/sCapivara/sCapivara.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"60df42f0-e9c5-460b-8a1d-8e74aa7ff43a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"570e4718-be00-433a-8882-9dfac4793ee6","path":"sprites/sTartaruga/sTartaruga.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4086a9f7-f36c-4d54-b044-2bec3f5b904b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

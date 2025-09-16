@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"objCapivara",
+  "%Name":"objTeleporte_2",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"objCapivara",
+  "name":"objTeleporte_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Npcs",
-    "path":"folders/Objetos/Npcs.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sCapivara",
-    "path":"sprites/sCapivara/sCapivara.yy",
+    "name":"sTeleporte_2",
+    "path":"sprites/sTeleporte_2/sTeleporte_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"objCapivara",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objDoguinho",
+  "eventList":[],
   "managed":true,
-  "name":"objCapivara",
+  "name":"objDoguinho",
   "overriddenProperties":[],
   "parent":{
     "name":"Npcs",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sCapivara",
-    "path":"sprites/sCapivara/sCapivara.yy",
+    "name":"sDoguinho",
+    "path":"sprites/sDoguinho/sDoguinho.yy",
   },
   "spriteMaskId":null,
   "visible":true,

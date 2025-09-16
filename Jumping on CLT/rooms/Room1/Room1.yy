@@ -10,7 +10,6 @@
     {"name":"inst_708C7CE0","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7D3C8E99","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_11F33D26","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_7D4DB699","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5BF4112E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_277ECFC5","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_2A05A9D9","path":"rooms/Room1/Room1.yy",},
@@ -49,7 +48,7 @@
     {"name":"inst_2813BA0E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_29A2780F","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_29F7A7D9","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_7772B260","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_268DC647","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -417,10 +416,9 @@
           1295,1296,1297,1298,1299,1300,1301,1302,1303,1304,1305,1306,1307,1308,1309,1310,-42015,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"Instances_2","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v2","%Name":"inst_7D4DB699","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D4DB699","objectId":{"name":"objTeleporte","path":"objects/objTeleporte/objTeleporte.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":-0.5,"x":1632.0,"y":640.0,},
         {"$GMRInstance":"v2","%Name":"inst_5BF4112E","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5BF4112E","objectId":{"name":"objTeleporte","path":"objects/objTeleporte/objTeleporte.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":-0.5,"x":1664.0,"y":640.0,},
-        {"$GMRInstance":"v2","%Name":"inst_7772B260","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7772B260","objectId":{"name":"objDialogo","path":"objects/objDialogo/objDialogo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":1760.0,"y":672.0,},
-      ],"layers":[],"name":"Instances_2","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
+        {"$GMRInstance":"v2","%Name":"inst_268DC647","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_268DC647","objectId":{"name":"objTeleporte","path":"objects/objTeleporte/objTeleporte.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1376.0,"y":896.0,},
+      ],"layers":[],"name":"Instances_2","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Casas","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_11F33D26","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_11F33D26","objectId":{"name":"objCasa1","path":"objects/objCasa1/objCasa1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.62000006,"scaleY":0.62000006,"x":1664.0,"y":576.0,},
       ],"layers":[],"name":"Casas","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
