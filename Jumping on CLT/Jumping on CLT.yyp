@@ -43,6 +43,7 @@
     {"id":{"name":"objArvore","path":"objects/objArvore/objArvore.yy",},},
     {"id":{"name":"objCapivara","path":"objects/objCapivara/objCapivara.yy",},},
     {"id":{"name":"objCasa1","path":"objects/objCasa1/objCasa1.yy",},},
+    {"id":{"name":"objCasa2","path":"objects/objCasa2/objCasa2.yy",},},
     {"id":{"name":"objDialogo","path":"objects/objDialogo/objDialogo.yy",},},
     {"id":{"name":"objDoguinho","path":"objects/objDoguinho/objDoguinho.yy",},},
     {"id":{"name":"objParede","path":"objects/objParede/objParede.yy",},},
@@ -52,6 +53,7 @@
     {"id":{"name":"objTeleporte_2","path":"objects/objTeleporte_2/objTeleporte_2.yy",},},
     {"id":{"name":"objTeleporte","path":"objects/objTeleporte/objTeleporte.yy",},},
     {"id":{"name":"rmCasa1","path":"rooms/rmCasa1/rmCasa1.yy",},},
+    {"id":{"name":"rmCasa2","path":"rooms/rmCasa2/rmCasa2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"pAndando","path":"sprites/pAndando/pAndando.yy",},},
     {"id":{"name":"pAndandoE","path":"sprites/pAndandoE/pAndandoE.yy",},},
@@ -59,6 +61,8 @@
     {"id":{"name":"sArvore","path":"sprites/sArvore/sArvore.yy",},},
     {"id":{"name":"sCapivara","path":"sprites/sCapivara/sCapivara.yy",},},
     {"id":{"name":"sCasa1","path":"sprites/sCasa1/sCasa1.yy",},},
+    {"id":{"name":"sCasa2","path":"sprites/sCasa2/sCasa2.yy",},},
+    {"id":{"name":"sCasa3","path":"sprites/sCasa3/sCasa3.yy",},},
     {"id":{"name":"sDialogo","path":"sprites/sDialogo/sDialogo.yy",},},
     {"id":{"name":"sDoguinho","path":"sprites/sDoguinho/sDoguinho.yy",},},
     {"id":{"name":"sParede","path":"sprites/sParede/sParede.yy",},},
@@ -81,6 +85,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rmCasa1","path":"rooms/rmCasa1/rmCasa1.yy",},},
+    {"roomId":{"name":"rmCasa2","path":"rooms/rmCasa2/rmCasa2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
